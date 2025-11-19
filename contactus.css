@@ -41,6 +41,6 @@ input[type="text"]{
     padding: 10px;
 }
 input[type="submit"]:hover{
-    color: darkgoldenrod;
+    color: orange;
 
 }
