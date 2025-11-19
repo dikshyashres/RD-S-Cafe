@@ -1,0 +1,46 @@
+h1{
+    color: #1a0d0d;
+    text-align: center;
+    margin-top: 20px;
+    
+    
+}
+body{
+    background-image: url(contact.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form {
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center; 
+    background-color: #85644c;
+    width: 350px;          
+    text-align: center;
+}
+label {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.siri {
+    display: flex;
+    justify-content: center;  
+    margin-top: 20px;       
+}
+input[type="submit"] {    
+    margin: 15px auto;
+    display: block;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+input[type="text"]{
+    width: 80%;           
+    margin: 10px auto;     
+    display: block;        
+    padding: 10px;
+}
+input[type="submit"]:hover{
+    color: darkgoldenrod;
+
+}
